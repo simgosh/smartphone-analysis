@@ -1,13 +1,13 @@
 # smartphone-analysis
 Smartphone Data Analysis (Explorarity &amp; Visualization)
 
-**About Dataset
-**This is the Smartphones dataset which consists of 210 rows and 26 different columns.
+**About Dataset**
+This is the Smartphones dataset which consists of 210 rows and 26 different columns.
 I did data-cleaned, data-visualizations, data-explorations(EDA), and some calculations.
 This dataset is taken from Kaggle.com (open source) (and I will share the dataset link here: https://www.kaggle.com/datasets/informrohit1/smartphones-dataset/data)
 
-**Some graphics have been attached below:**
 
+**Some graphics have been attached below:**
 1 ) Heatmap Graphs (for all numeric columns) :
 ![image](https://github.com/simgosh/smartphone-analysis/assets/158474992/5b445d0f-a244-4e19-b689-7330a82faf0d)
 
